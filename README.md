@@ -2,6 +2,8 @@
 
 This is a **demo project** created for an article about building a custom MCP server in C#.
 
+https://beniaminlenarcik.pl/mcp-jak-dac-agentom-ai-realna-mozliwosc-dzialania-w-srodowisku-net
+
 It enables basic Windows service management from Visual Studio Code using the Model Context Protocol (MCP).
 
 ## Based on
